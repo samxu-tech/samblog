@@ -131,4 +131,6 @@ githubEmojis:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
+  repo: https://github.com/samxu-tech/samxu-tech.github.io.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  branch: main
 
