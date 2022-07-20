@@ -15,5 +15,5 @@ npm run server
 # How to build and push
 npm run build
 git add .
-git commit -m "theme and url"
+git commit -m "article"
 git push

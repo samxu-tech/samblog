@@ -8,7 +8,7 @@ categories: 技术
 
 本文将从基本概念、技术原理、常见易错常识、动手实践等多个方面入手，万字长文，带你一起全方位探索 WebSocket 技术。
 
-rfc:[https://datatracker.ietf.org/doc/html/rfc6455](https://datatracker.ietf.org/doc/html/rfc6455)
+
 
 **阅读完本文，你将了解以下内容：**
 
@@ -25,13 +25,9 @@ rfc:[https://datatracker.ietf.org/doc/html/rfc6455](https://datatracker.ietf.org
 >- 开源IM框架源码：[https://github.com/JackJiang2011/MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK)
 （本文同步发布于：[http://www.52im.net/thread-3713-1-1.html](http://www.52im.net/thread-3713-1-1.html)）
 
-# 2、关于作者
+# 2、RFC
 
-**作者网名：**阿宝哥
-
-**个人博客：**[http://www.semlinker.com/](http://www.semlinker.com/)
-
-**作者Github：**[https://github.com/semlinker/](https://github.com/semlinker/)
+**rfc：**[https://datatracker.ietf.org/doc/html/rfc6455](https://datatracker.ietf.org/doc/html/rfc6455)
 
 # 3、什么是 WebSocket
 
